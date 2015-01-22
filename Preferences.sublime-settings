@@ -3,6 +3,7 @@
 	"font_size": 17,
 	"ignored_packages":
 	[
+		"SublimeLinter-php",
 		"Vintage"
 	],
 	"theme": "Spacegray Eighties.sublime-theme"
