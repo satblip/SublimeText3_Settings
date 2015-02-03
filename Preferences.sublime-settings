@@ -3,8 +3,11 @@
 	"font_size": 17,
 	"ignored_packages":
 	[
-		"SublimeLinter-php",
-		"Vintage"
+		"Vintage",
+		"SublimeLinter-php"
 	],
-	"theme": "Spacegray Eighties.sublime-theme"
+	"theme": "Spacegray Eighties.sublime-theme",
+    
+	// Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
 }
