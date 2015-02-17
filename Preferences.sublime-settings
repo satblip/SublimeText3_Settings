@@ -9,6 +9,8 @@
 	],
 	"theme": "Spacegray Eighties.sublime-theme",
 
+  "tab_size": 2,
+
 	"trim_trailing_white_space_on_save": true,
 
   // Set to true to insert spaces when tab is pressed
