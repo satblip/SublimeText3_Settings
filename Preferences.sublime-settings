@@ -8,8 +8,8 @@
 	"ignored_packages":
 	[
 		"SublimeLinter-php",
-		"Vintage",
-		"GitGutter"
+		"GitGutter",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
