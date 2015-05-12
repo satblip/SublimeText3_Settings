@@ -4,11 +4,13 @@
 	"color_scheme": "Packages/User/SublimeLinter/Anarchist (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_centered": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 17,
 	"ignored_packages":
 	[
-		"GitGutter",
 		"SublimeLinter-php",
+		"GitGutter",
+		"LoremIpsum",
 		"Vintage"
 	],
 	"indent_guide_options":
