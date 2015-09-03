@@ -2,3 +2,5 @@ Package Control.last-run
 .DS_Store
 *.cache
 SFTP.errors.log
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
