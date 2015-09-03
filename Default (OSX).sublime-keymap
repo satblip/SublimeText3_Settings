@@ -1,3 +1,20 @@
 [
-	{ "keys": ["alt+ctrl+a"], "command": "alignment" }
+  {
+    "keys": [
+      "alt+ctrl+a"
+    ],
+    "command": "alignment"
+  },
+  {
+    "keys": [
+      "alt+up"
+    ],
+    "command": "swap_line_up"
+  },
+  {
+    "keys": [
+      "alt+down"
+    ],
+    "command": "swap_line_down"
+  }
 ]

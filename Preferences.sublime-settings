@@ -5,13 +5,14 @@
 	"detect_indentation": false,
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 17,
+	"font_face": "hack",
+	"font_size": 20,
 	"ignored_packages":
 	[
-		"SublimeLinter-php",
 		"GitGutter",
-		"LoremIpsum",
-		"Vintage"
+		"Vintage",
+		"SublimeLinter-php",
+		"LoremIpsum"
 	],
 	"indent_guide_options":
 	[
