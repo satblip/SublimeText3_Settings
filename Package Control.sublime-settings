@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -37,9 +38,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
+		"StandardFormat",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-semistandard",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",

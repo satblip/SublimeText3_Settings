@@ -1,0 +1,14 @@
+{
+  "format_on_save": false,
+  "PATH": [],
+  "extensions": [
+    "js",
+    "jsx"
+  ],
+  "command": [
+    "semistandard",
+    "-F",
+    "--stdin"
+  ],
+  "loud_error": false
+}
