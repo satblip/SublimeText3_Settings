@@ -10,9 +10,11 @@
 	"ignored_packages":
 	[
 		"GitGutter",
-		"Vintage",
+		"LoremIpsum",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"LoremIpsum"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
