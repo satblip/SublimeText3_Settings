@@ -1,7 +1,7 @@
 {
 	"auto_indent": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/User/SublimeLinter/Anarchist (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -11,8 +11,6 @@
 	[
 		"GitGutter",
 		"LoremIpsum",
-		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Vintage"
 	],
