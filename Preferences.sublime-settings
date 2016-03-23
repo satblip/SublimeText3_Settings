@@ -11,6 +11,7 @@
 	[
 		"GitGutter",
 		"LoremIpsum",
+		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Vintage"
 	],
