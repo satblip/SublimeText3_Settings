@@ -6,7 +6,7 @@
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "hack",
-	"font_size": 20,
+	"font_size": 21,
 	"ignored_packages":
 	[
 		"GitGutter",
@@ -23,6 +23,11 @@
 	"indent_to_bracket": true,
 	"itg_sidebar_tree_xsmall": true,
 	"itg_small_tabs": true,
+	"rulers":
+	[
+		72,
+		80
+	],
 	"smart_indent": true,
 	"tab_size": 2,
 	"theme": "itg.flat.dark.sublime-theme",
