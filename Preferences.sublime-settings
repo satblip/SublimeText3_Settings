@@ -9,10 +9,6 @@
 	"font_size": 20,
 	"ignored_packages":
 	[
-		"GitGutter",
-		"LoremIpsum",
-		"SublimeLinter-jshint",
-		"SublimeLinter-php",
 		"Vintage"
 	],
 	"indent_guide_options":
