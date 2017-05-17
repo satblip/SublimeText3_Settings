@@ -23,6 +23,7 @@
 		"Handlebars",
 		"HTMLBeautify",
 		"Http Requester",
+		"HyperClick",
 		"INI",
 		"Jade",
 		"JavaScript Snippets",
@@ -48,6 +49,7 @@
 		"Theme - Flatland",
 		"Theme - itg.flat",
 		"Theme - Spacegray",
+		"ToggleQuotes",
 		"Vagrant"
 	]
 }
