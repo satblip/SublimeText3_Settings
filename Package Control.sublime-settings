@@ -5,10 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"Autoprefixer",
 		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
 		"BracketHighlighter",
 		"Can I Use",
 		"ColorPicker",
