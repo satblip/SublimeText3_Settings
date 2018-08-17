@@ -6,9 +6,10 @@
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "hack",
-	"font_size": 22,
+	"font_size": 23,
 	"ignored_packages":
 	[
+		"Vagrant",
 		"Vintage"
 	],
 	"indent_guide_options":
