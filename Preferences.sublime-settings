@@ -26,6 +26,7 @@
 		80
 	],
 	"smart_indent": true,
+  "sublimelinter_delay": 500,
 	"tab_size": 2,
 	"theme": "Boxy Solarized Dark.sublime-theme",
 	"theme_accent_orange": true,

@@ -314,6 +314,11 @@
 										"id": "stino_platform_1.6.23",
 										"command": "stino_install_platform",
 										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Beta Boards (32-bits ARM Cortex-M0+)", "version": "1.6.23"}
+									},
+									{										"caption": "1.6.24",
+										"id": "stino_platform_1.6.24",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Beta Boards (32-bits ARM Cortex-M0+)", "version": "1.6.24"}
 									}
 								]							},
 							{
@@ -420,25 +425,6 @@
 										"id": "stino_platform_0.6.0",
 										"command": "stino_install_platform",
 										"args": {"package_name": "atmel-avr-xminis", "platform_name": "Atmel AVR Xplained-minis", "version": "0.6.0"}
-									}
-								]							}
-						]
-					},
-					{
-						"caption": "Dragino",
-						"id": "stino_package_Dragino",
-						"children":
-						[
-							{"caption": "-"},
-							{
-								"caption": "Dragino Yun",
-								"id": "stino_platform_Dragino Yun",
-								"children":
-								[									{"caption": "-"},
-									{										"caption": "0.1",
-										"id": "stino_platform_0.1",
-										"command": "stino_install_platform",
-										"args": {"package_name": "Dragino", "platform_name": "Dragino Yun", "version": "0.1"}
 									}
 								]							}
 						]
@@ -611,6 +597,116 @@
 										"id": "stino_platform_1.1.2",
 										"command": "stino_install_platform",
 										"args": {"package_name": "Microsoft", "platform_name": "Windows 10 Iot Core", "version": "1.1.2"}
+									}
+								]							}
+						]
+					},
+					{
+						"caption": "SODAQ",
+						"id": "stino_package_SODAQ",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "SODAQ AVR Boards",
+								"id": "stino_platform_SODAQ AVR Boards",
+								"children":
+								[									{"caption": "-"},
+									{										"caption": "1.0.0",
+										"id": "stino_platform_1.0.0",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.0.0"}
+									},
+									{										"caption": "1.0.1",
+										"id": "stino_platform_1.0.1",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.0.1"}
+									},
+									{										"caption": "1.0.2",
+										"id": "stino_platform_1.0.2",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.0.2"}
+									},
+									{										"caption": "1.0.3",
+										"id": "stino_platform_1.0.3",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.0.3"}
+									},
+									{										"caption": "1.1.0",
+										"id": "stino_platform_1.1.0",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.1.0"}
+									},
+									{										"caption": "1.1.1",
+										"id": "stino_platform_1.1.1",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards", "version": "1.1.1"}
+									}
+								]							},
+							{
+								"caption": "SODAQ SAMD Boards",
+								"id": "stino_platform_SODAQ SAMD Boards",
+								"children":
+								[									{"caption": "-"},
+									{										"caption": "1.6.0",
+										"id": "stino_platform_1.6.0",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.0"}
+									},
+									{										"caption": "1.6.1",
+										"id": "stino_platform_1.6.1",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.1"}
+									},
+									{										"caption": "1.6.2",
+										"id": "stino_platform_1.6.2",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.2"}
+									},
+									{										"caption": "1.6.3",
+										"id": "stino_platform_1.6.3",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.3"}
+									},
+									{										"caption": "1.6.4",
+										"id": "stino_platform_1.6.4",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.4"}
+									},
+									{										"caption": "1.6.5",
+										"id": "stino_platform_1.6.5",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.5"}
+									},
+									{										"caption": "1.6.6",
+										"id": "stino_platform_1.6.6",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.6"}
+									},
+									{										"caption": "1.6.7",
+										"id": "stino_platform_1.6.7",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.7"}
+									},
+									{										"caption": "1.6.8",
+										"id": "stino_platform_1.6.8",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.8"}
+									},
+									{										"caption": "1.6.9",
+										"id": "stino_platform_1.6.9",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.9"}
+									},
+									{										"caption": "1.6.10",
+										"id": "stino_platform_1.6.10",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.10"}
+									},
+									{										"caption": "1.6.11",
+										"id": "stino_platform_1.6.11",
+										"command": "stino_install_platform",
+										"args": {"package_name": "SODAQ", "platform_name": "SODAQ SAMD Boards", "version": "1.6.11"}
 									}
 								]							}
 						]

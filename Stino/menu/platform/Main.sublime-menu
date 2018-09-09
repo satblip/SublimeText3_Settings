@@ -32,6 +32,21 @@
 						]
 					},
 					{
+						"caption": "SODAQ",
+						"id": "stino_package_SODAQ",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "SODAQ AVR Boards",
+								"id": "stino_platform_SODAQ AVR Boards",
+								"command": "stino_select_platform",
+								"args": {"package_name": "SODAQ", "platform_name": "SODAQ AVR Boards"},
+								"checkbox": true
+							}
+						]
+					},
+					{
 						"caption": "digistump",
 						"id": "stino_package_digistump",
 						"children":
@@ -90,10 +105,10 @@
 						[
 							{"caption": "-"},
 							{
-								"caption": "Dragino Yun",
-								"id": "stino_platform_Dragino Yun",
+								"caption": "avr",
+								"id": "stino_platform_avr",
 								"command": "stino_select_platform",
-								"args": {"package_name": "Dragino", "platform_name": "Dragino Yun"},
+								"args": {"package_name": "Dragino", "platform_name": "avr"},
 								"checkbox": true
 							}
 						]
