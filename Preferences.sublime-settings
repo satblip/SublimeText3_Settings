@@ -1,7 +1,7 @@
 {
 	"auto_indent": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Solarized-dark-Nitrous.io.tmTheme",
 	"detect_indentation": false,
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -9,6 +9,7 @@
 	"font_size": 23,
 	"ignored_packages":
 	[
+		"Arduino-like IDE",
 		"Vagrant",
 		"Vintage"
 	],

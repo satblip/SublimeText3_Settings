@@ -20,14 +20,7 @@
 						"id": "stino_check_tools",
 						"command": "stino_check_tools"
 					},
-					{"caption": "-"},
-					{
-						"caption": "1.6.21",
-						"id": "stino_version_1.6.21",
-						"command": "stino_select_version",
-						"args": {"version": "1.6.21"},
-						"checkbox": true
-					}
+					{"caption": "-"}
 				]
 			}
 		]

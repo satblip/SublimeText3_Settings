@@ -15,37 +15,7 @@
 						"id": "stino_refresh_platform_libraries",
 						"command": "stino_refresh_platform_libraries"
 					},
-					{"caption": "-"},
-					{
-						"caption": "Wire",
-						"id": "stino_library_Wire",
-						"command": "stino_import_library",
-						"args": {"library_path": "/Users/satblip/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/libraries/Wire"}
-					},
-					{
-						"caption": "SoftwareSerial",
-						"id": "stino_library_SoftwareSerial",
-						"command": "stino_import_library",
-						"args": {"library_path": "/Users/satblip/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/libraries/SoftwareSerial"}
-					},
-					{
-						"caption": "SPI",
-						"id": "stino_library_SPI",
-						"command": "stino_import_library",
-						"args": {"library_path": "/Users/satblip/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/libraries/SPI"}
-					},
-					{
-						"caption": "HID",
-						"id": "stino_library_HID",
-						"command": "stino_import_library",
-						"args": {"library_path": "/Users/satblip/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/libraries/HID"}
-					},
-					{
-						"caption": "EEPROM",
-						"id": "stino_library_EEPROM",
-						"command": "stino_import_library",
-						"args": {"library_path": "/Users/satblip/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/libraries/EEPROM"}
-					}
+					{"caption": "-"}
 				]
 			}
 		]
