@@ -1,7 +1,7 @@
 {
 	"auto_indent": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Solarized-dark-Nitrous.io.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -9,8 +9,6 @@
 	"font_size": 23,
 	"ignored_packages":
 	[
-		"Arduino-like IDE",
-		"Vagrant",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -29,7 +27,7 @@
 	"smart_indent": true,
 	"sublimelinter_delay": 500,
 	"tab_size": 2,
-	"theme": "Boxy Solarized Dark.sublime-theme",
+	"theme": "itg.flat.dark.orange.sublime-theme",
 	"theme_accent_orange": true,
 	"theme_bar": true,
 	"theme_bar_shadow_hidden": true,

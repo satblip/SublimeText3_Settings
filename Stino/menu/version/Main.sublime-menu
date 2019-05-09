@@ -20,7 +20,14 @@
 						"id": "stino_check_tools",
 						"command": "stino_check_tools"
 					},
-					{"caption": "-"}
+					{"caption": "-"},
+					{
+						"caption": "avr",
+						"id": "stino_version_avr",
+						"command": "stino_select_version",
+						"args": {"version": "avr"},
+						"checkbox": true
+					}
 				]
 			}
 		]

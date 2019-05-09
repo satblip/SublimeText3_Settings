@@ -136,6 +136,42 @@
 										"id": "stino_platform_1.6.21",
 										"command": "stino_install_platform",
 										"args": {"package_name": "arduino", "platform_name": "Arduino AVR Boards", "version": "1.6.21"}
+									},
+									{										"caption": "1.6.22",
+										"id": "stino_platform_1.6.22",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino AVR Boards", "version": "1.6.22"}
+									},
+									{										"caption": "1.6.23",
+										"id": "stino_platform_1.6.23",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino AVR Boards", "version": "1.6.23"}
+									}
+								]							},
+							{
+								"caption": "Arduino megaAVR Boards",
+								"id": "stino_platform_Arduino megaAVR Boards",
+								"children":
+								[									{"caption": "-"},
+									{										"caption": "1.6.23",
+										"id": "stino_platform_1.6.23",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino megaAVR Boards", "version": "1.6.23"}
+									},
+									{										"caption": "1.6.24",
+										"id": "stino_platform_1.6.24",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino megaAVR Boards", "version": "1.6.24"}
+									},
+									{										"caption": "1.6.25",
+										"id": "stino_platform_1.6.25",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino megaAVR Boards", "version": "1.6.25"}
+									},
+									{										"caption": "1.6.26",
+										"id": "stino_platform_1.6.26",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino megaAVR Boards", "version": "1.6.26"}
 									}
 								]							},
 							{
@@ -192,6 +228,11 @@
 										"id": "stino_platform_1.6.11",
 										"command": "stino_install_platform",
 										"args": {"package_name": "arduino", "platform_name": "Arduino SAM Boards (32-bits ARM Cortex-M3)", "version": "1.6.11"}
+									},
+									{										"caption": "1.6.12",
+										"id": "stino_platform_1.6.12",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino SAM Boards (32-bits ARM Cortex-M3)", "version": "1.6.12"}
 									}
 								]							},
 							{
@@ -298,6 +339,16 @@
 										"id": "stino_platform_1.6.19",
 										"command": "stino_install_platform",
 										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)", "version": "1.6.19"}
+									},
+									{										"caption": "1.6.20",
+										"id": "stino_platform_1.6.20",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)", "version": "1.6.20"}
+									},
+									{										"caption": "1.6.21",
+										"id": "stino_platform_1.6.21",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)", "version": "1.6.21"}
 									}
 								]							},
 							{
@@ -319,6 +370,11 @@
 										"id": "stino_platform_1.6.24",
 										"command": "stino_install_platform",
 										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Beta Boards (32-bits ARM Cortex-M0+)", "version": "1.6.24"}
+									},
+									{										"caption": "1.6.25",
+										"id": "stino_platform_1.6.25",
+										"command": "stino_install_platform",
+										"args": {"package_name": "arduino", "platform_name": "Arduino SAMD Beta Boards (32-bits ARM Cortex-M0+)", "version": "1.6.25"}
 									}
 								]							},
 							{
@@ -544,6 +600,11 @@
 										"id": "stino_platform_2.0.2",
 										"command": "stino_install_platform",
 										"args": {"package_name": "Intel", "platform_name": "Intel Curie Boards", "version": "2.0.2"}
+									},
+									{										"caption": "2.0.4",
+										"id": "stino_platform_2.0.4",
+										"command": "stino_install_platform",
+										"args": {"package_name": "Intel", "platform_name": "Intel Curie Boards", "version": "2.0.4"}
 									}
 								]							}
 						]

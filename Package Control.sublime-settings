@@ -8,13 +8,8 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
-		"Arduino-like IDE",
 		"Autoprefixer",
 		"Babel",
-		"Boxy Theme",
-		"Boxy Theme Addon - Font Face",
-		"Boxy Theme Addon - Mono File Icons",
-		"Boxy Theme Addon - Widget Font Size",
 		"BracketHighlighter",
 		"Can I Use",
 		"ColorPicker",
@@ -54,8 +49,9 @@
 		"SysLog",
 		"Theme - Flatland",
 		"Theme - itg.flat",
+		"Theme - Soda SolarizedDark",
+		"Theme - Solarized Flat",
 		"Theme - Spacegray",
-		"ToggleQuotes",
-		"Vagrant"
+		"ToggleQuotes"
 	]
 }

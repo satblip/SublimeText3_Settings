@@ -17,6 +17,20 @@
 					},
 					{"caption": "-"},
 					{
+						"caption": "/dev/cu.MALS",
+						"id": "stino_serial_/dev/cu.MALS",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "/dev/cu.MALS"},
+						"checkbox": true
+					},
+					{
+						"caption": "/dev/cu.SOC",
+						"id": "stino_serial_/dev/cu.SOC",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "/dev/cu.SOC"},
+						"checkbox": true
+					},
+					{
 						"caption": "/dev/cu.Bluetooth-Incoming-Port",
 						"id": "stino_serial_/dev/cu.Bluetooth-Incoming-Port",
 						"command": "stino_select_serial",
